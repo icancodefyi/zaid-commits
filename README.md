@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaid-commits&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/zaid-commits?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/zaid-commits?style=social" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=icancodefyi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/icancodefyi?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/icancodefyi?style=social" alt="GitHub stars" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-commits&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icancodefyi&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -25,7 +25,7 @@
 <h2 align="center">🔥 GitHub Streaks</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zaid-commits&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=icancodefyi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -33,7 +33,7 @@
 <h2 align="center">📊 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaid-commits&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icancodefyi&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
   <a href="mailto:engineering.zaidrakhange@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/zaid-commits">
+  <a href="https://github.com/icancodefyi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
